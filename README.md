@@ -7,7 +7,7 @@ it is just like group chat prototype of whatsapp.
 
 Procedure:
 => make a copy of client file for every new user.
-=> I have made it for server and clients on same machine, but you can always connect cients from different machines, you just have to give IP address of server machine in every client file you want to connect.
+=> I have made it for server and clients on same machine, but you can always connect clients from different machines, you just have to give IP address of server machine in every client file you want to connect.
 => first run server.py file and then every client.py file and it gets connected to server automatically
 => you have to first enter your name in the text field.
 => then you can send messages
